@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{e9ddefba-ad21-4bd2-a649-4882b48e3ac7}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{c81f680a-4c13-469e-b2cc-2be5085d22f4}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{d12751c9-6090-473f-8569-bdb3c8de67f1}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{635680f1-f88f-4f2d-8c76-434de25c25d1}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{7f3e26f9-e280-4717-bef5-f771f3acfaa1}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{1540e3df-55e0-4e1c-93b0-deda02b66bda}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{9e4779b8-f586-4e3a-8e67-d7338d4dbf30}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{c5b44824-e985-42f1-a23a-020b16dae206}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{dc671933-3eb7-4a52-90c8-f511b0f28e7e}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{62153d1d-90a5-47e3-9255-232ab7c5186e}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{7dc67fee-809e-4e90-b7b2-dbeed3a20191}</destination>
+		</relationship>
+	</object>
+</objects>
