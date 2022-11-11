@@ -95,6 +95,7 @@ Plugins/**/Intermediate/*
 SpookyGameJam_2022/Saved/
 SpookyGameJam_2022/Saved/*
 SpookyGameJam_2022/Intermediate/
+<<<<<<< HEAD
 SpookyGameJam_2022/Content/StarterContent/Architecture/Floor_400x400.uasset
 SpookyGameJam_2022/Content/StarterContent/Architecture/Pillar_50x500.uasset
 SpookyGameJam_2022/Content/StarterContent/Architecture/SM_AssetPlatform.uasset
@@ -362,3 +363,9 @@ SpookyGameJam_2022/Content/StarterContent/Textures/T_Wood_Pine_D.uasset
 SpookyGameJam_2022/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
 SpookyGameJam_2022/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
 SpookyGameJam_2022/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+=======
+SpookyGameJam_2022_FModSession/.cache/
+SpookyGameJam_2022_FModSession/.cache/*
+SpookyGameJam_2022_FModSession/.user/
+SpookyGameJam_2022_FModSession/.user/*
+>>>>>>> 8086cde6ae5073e2fb4f78cf98de2d02184495ac
