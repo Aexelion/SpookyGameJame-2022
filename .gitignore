@@ -92,5 +92,5 @@ Plugins/**/Intermediate/*
 
 *.log
 *.ini
-Saved/
-Saved/*
+SpookyGameJam-2022/Saved/
+SpookyGameJam-2022/Saved/*
