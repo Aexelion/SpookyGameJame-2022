@@ -977,3 +977,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.11-09.41.31:216][  1]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Ambiance.Ambiance
 [2022.11.11-09.41.45:305][650]LogAssetEditorSubsystem: Opening Asset editor for FMODBank /Game/FMOD/Banks/Ambiance.Ambiance
 [2022.11.11-09.41.47:208][862]LogSlate: Window 'Ambiance' being destroyed
+[2022.11.11-10.06.36:520][209]LogFMOD: Loading strings bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Master.strings.bank
+[2022.11.11-10.06.36:522][209]LogFMOD: Adding asset: /Game/FMOD/Events/Footsteps
+[2022.11.11-10.06.36:522][209]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {8af99ddd-f083-478c-9321-7d3a717dfec1}
+
+[2022.11.11-10.06.36:522][209]LogFMOD: Adding asset: /Game/FMOD/Banks/Player
+[2022.11.11-10.06.36:523][209]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FMOD/PrivateIntegrationData/BankLookup
+/Game/FMOD/Events/Footsteps
+/Game/FMOD/Banks/Player
+/Game/FMOD/PrivateIntegrationData/AssetLookup
+[2022.11.11-10.06.36:533][209]LogSavePackage: Moving '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Saved/BankLookup19B3EDA241A0043A4500BA973363D982.tmp' to '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2022.11.11-10.06.36:534][209]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {8af99ddd-f083-478c-9321-7d3a717dfec1}
+
+[2022.11.11-10.06.36:534][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Footsteps" FILE="../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Events/Footsteps.uasset" SILENT=true
+[2022.11.11-10.06.36:534][209]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {8af99ddd-f083-478c-9321-7d3a717dfec1}
+
+[2022.11.11-10.06.36:535][209]LogSavePackage: Moving '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Saved/Footsteps55DAD68144D9D64C3458A48EFECEA929.tmp' to '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Events/Footsteps.uasset'
+[2022.11.11-10.06.36:535][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Player" FILE="../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Banks/Player.uasset" SILENT=true
+[2022.11.11-10.06.36:536][209]LogSavePackage: Moving '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Saved/Player91EBC9C74B9247288C67C18A4D81E87E.tmp' to '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Banks/Player.uasset'
+[2022.11.11-10.06.36:537][209]LogSavePackage: Moving '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Saved/AssetLookupB7D2F54A484DCFEEC07A6C8093B779BD.tmp' to '../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2022.11.11-10.06.36:543][209]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FMOD/PrivateIntegrationData/BankLookup
+/Game/FMOD/Events/Footsteps
+/Game/FMOD/Banks/Player
+/Game/FMOD/PrivateIntegrationData/AssetLookup
+[2022.11.11-10.06.36:647][209]LogFMOD: Display: Loaded bank lookup
+[2022.11.11-10.06.36:647][209]LogFMOD: Display: Loaded asset lookup
+[2022.11.11-10.06.36:650][209]LogFMOD: Default sample rate = 48000
+[2022.11.11-10.06.36:651][209]LogFMOD: System sample rate = 48000
+[2022.11.11-10.06.36:651][209]LogFMOD: Matching system sample rate 48000
+[2022.11.11-10.06.36:657][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Ambiance.bank
+[2022.11.11-10.06.36:657][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Music.bank
+[2022.11.11-10.06.36:657][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/SFX.bank
+[2022.11.11-10.06.36:657][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Player.bank
+[2022.11.11-10.06.36:800][209]LogFMOD: Default sample rate = 48000
+[2022.11.11-10.06.36:800][209]LogFMOD: System sample rate = 48000
+[2022.11.11-10.06.36:800][209]LogFMOD: Matching system sample rate 48000
+[2022.11.11-10.06.36:806][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Ambiance.bank
+[2022.11.11-10.06.36:806][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Music.bank
+[2022.11.11-10.06.36:806][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/SFX.bank
+[2022.11.11-10.06.36:806][209]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Player.bank
+[2022.11.11-10.06.36:852][209]LogFMOD: Display: Loaded bank lookup
+[2022.11.11-10.06.36:852][209]LogFMOD: Display: Loaded asset lookup
+[2022.11.11-10.06.36:862][209]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.11-10.06.36:862][209]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Player.Player
+[2022.11.11-10.06.36:862][209]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Footsteps.Footsteps
+[2022.11.11-10.06.36:862][209]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2022.11.11-10.06.36:862][209]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2022.11.11-10.06.42:542][227]LogFMOD: Loading strings bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Master.strings.bank
+[2022.11.11-10.06.42:646][227]LogFMOD: Display: Loaded bank lookup
+[2022.11.11-10.06.42:646][227]LogFMOD: Display: Loaded asset lookup
+[2022.11.11-10.06.42:650][227]LogFMOD: Default sample rate = 48000
+[2022.11.11-10.06.42:650][227]LogFMOD: System sample rate = 48000
+[2022.11.11-10.06.42:650][227]LogFMOD: Matching system sample rate 48000
+[2022.11.11-10.06.42:656][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Ambiance.bank
+[2022.11.11-10.06.42:656][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Music.bank
+[2022.11.11-10.06.42:656][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/SFX.bank
+[2022.11.11-10.06.42:656][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Player.bank
+[2022.11.11-10.06.42:799][227]LogFMOD: Default sample rate = 48000
+[2022.11.11-10.06.42:799][227]LogFMOD: System sample rate = 48000
+[2022.11.11-10.06.42:799][227]LogFMOD: Matching system sample rate 48000
+[2022.11.11-10.06.42:804][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Ambiance.bank
+[2022.11.11-10.06.42:804][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Music.bank
+[2022.11.11-10.06.42:804][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/SFX.bank
+[2022.11.11-10.06.42:804][227]LogFMOD: Loading bank: ../../../../../../Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD/Desktop/Player.bank
+[2022.11.11-10.06.42:851][227]LogFMOD: Display: Loaded bank lookup
+[2022.11.11-10.06.42:851][227]LogFMOD: Display: Loaded asset lookup
