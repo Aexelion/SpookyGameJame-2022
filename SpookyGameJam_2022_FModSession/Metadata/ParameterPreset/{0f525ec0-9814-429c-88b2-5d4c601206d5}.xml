@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0f525ec0-9814-429c-88b2-5d4c601206d5}">
+		<property name="name">
+			<value>StressLevel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7f3e26f9-e280-4717-bef5-f771f3acfaa1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7718a7dd-754b-48df-a986-e7f99d48c32c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7718a7dd-754b-48df-a986-e7f99d48c32c}">
+		<property name="maximum">
+			<value>60</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
