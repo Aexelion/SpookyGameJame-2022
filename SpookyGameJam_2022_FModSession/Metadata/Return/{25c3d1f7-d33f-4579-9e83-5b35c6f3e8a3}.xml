@@ -50,5 +50,47 @@
 		<property name="dryLevel">
 			<value>-80</value>
 		</property>
+		<relationship name="automators">
+			<destination>{94ecaaee-3715-41b4-9a16-4d85e59b624f}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{94ecaaee-3715-41b4-9a16-4d85e59b624f}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>wetLevel</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{2ed5bbdb-1643-44e6-ac48-2f1a9fd0333f}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationCurve" id="{2ed5bbdb-1643-44e6-ac48-2f1a9fd0333f}">
+		<relationship name="parameter">
+			<destination>{7718a7dd-754b-48df-a986-e7f99d48c32c}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{1a376b22-7e42-4aae-86d1-3c091071b0e5}</destination>
+			<destination>{7c42d721-b63d-44ae-9b3b-0bd61773b6ea}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{1a376b22-7e42-4aae-86d1-3c091071b0e5}">
+		<property name="position">
+			<value>0.42372881355932202</value>
+		</property>
+		<property name="value">
+			<value>-4</value>
+		</property>
+		<property name="curveShape">
+			<value>0.5</value>
+		</property>
+		<property name="isSCurve">
+			<value>true</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{7c42d721-b63d-44ae-9b3b-0bd61773b6ea}">
+		<property name="position">
+			<value>59.915254237288131</value>
+		</property>
+		<property name="value">
+			<value>-8</value>
+		</property>
 	</object>
 </objects>
