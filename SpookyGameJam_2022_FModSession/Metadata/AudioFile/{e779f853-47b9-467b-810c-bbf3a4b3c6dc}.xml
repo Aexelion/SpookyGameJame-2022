@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e779f853-47b9-467b-810c-bbf3a4b3c6dc}">
+		<property name="assetPath">
+			<value>Footsteps/Stone/Walk/fs_stone_11_walk.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.42099999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c5b44824-e985-42f1-a23a-020b16dae206}</destination>
+		</relationship>
+	</object>
+</objects>
