@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{74227561-75fa-425b-b32d-90f8d9cb9a61}">
+		<property name="name">
+			<value>walk_run</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7f3e26f9-e280-4717-bef5-f771f3acfaa1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7371585e-f7a5-457a-b047-8f47b4e4d10e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7371585e-f7a5-457a-b047-8f47b4e4d10e}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
