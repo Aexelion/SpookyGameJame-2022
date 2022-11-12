@@ -31,10 +31,13 @@
 		<relationship name="timeline">
 			<destination>{8bfcc3c7-42b3-45e0-a0e4-7f829fbb2c50}</destination>
 		</relationship>
+<<<<<<< HEAD
 		<relationship name="parameters">
 			<destination>{a1f9c92b-b835-46b9-83aa-32ff60fe83d0}</destination>
 			<destination>{fd3513da-966b-4b61-942a-450eea0616a6}</destination>
 		</relationship>
+=======
+>>>>>>> f88ec03dcf296192ffd3fba0b560aa8e45c7ea41
 		<relationship name="banks">
 			<destination>{f619dac6-fe56-40f1-89bd-b5760dfea986}</destination>
 		</relationship>
@@ -84,6 +87,7 @@
 			<destination>{d9ff6f98-12f5-48de-aaaf-b78b05c4560b}</destination>
 		</relationship>
 	</object>
+<<<<<<< HEAD
 	<object class="ParameterProxy" id="{a1f9c92b-b835-46b9-83aa-32ff60fe83d0}">
 		<relationship name="preset">
 			<destination>{b9208ba7-92ed-4986-8672-62df3cf43812}</destination>
@@ -94,6 +98,8 @@
 			<destination>{d6bd13ff-a1bc-41cb-aa83-5fe5ad3097cf}</destination>
 		</relationship>
 	</object>
+=======
+>>>>>>> f88ec03dcf296192ffd3fba0b560aa8e45c7ea41
 	<object class="EventMixerMaster" id="{af2f75bd-9adf-4b68-afd6-bcdd2ba804a8}">
 		<relationship name="effectChain">
 			<destination>{4a48453c-b6de-4a2f-b00c-dda3184001f9}</destination>
@@ -308,6 +314,7 @@
 		<property name="nameOfPropertyBeingAutomated">
 			<value>frequencyA</value>
 		</property>
+<<<<<<< HEAD
 		<relationship name="automationCurves">
 			<destination>{ac851414-f896-4ca7-b666-0e44139a9070}</destination>
 		</relationship>
@@ -336,5 +343,7 @@
 		<property name="value">
 			<value>20</value>
 		</property>
+=======
+>>>>>>> f88ec03dcf296192ffd3fba0b560aa8e45c7ea41
 	</object>
 </objects>
