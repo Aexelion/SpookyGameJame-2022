@@ -1,76 +1,76 @@
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODSettingsCustomization.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AES.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
-F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
-F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
-F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Paths.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateFwd.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailBuilderTypes.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AssetThumbnail.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetData.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetBundleData.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetDataTagMap.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Tickable.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
-F:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/ProjectPackagingSettings.h
-F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ProjectPackagingSettings.generated.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
-F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
-F:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SButton.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODSettingsCustomization.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AES.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailBuilderTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AssetThumbnail.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetBundleData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetDataTagMap.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Tickable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/ProjectPackagingSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ProjectPackagingSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SButton.h

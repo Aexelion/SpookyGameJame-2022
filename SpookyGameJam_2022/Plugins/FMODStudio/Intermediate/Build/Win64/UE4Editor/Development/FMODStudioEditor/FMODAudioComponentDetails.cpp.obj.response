@@ -32,10 +32,10 @@
 /wd4244
 /wd4838
 /I .
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Classes"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Private"
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Classes
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry
 /I Runtime
 /I Runtime\AssetRegistry\Public
@@ -250,12 +250,12 @@
 /I Editor\CurveEditor\Public
 /I Editor\EditorWidgets\Public
 /I Editor\WorkspaceMenuStructure\Public
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Public"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes"
-/I "F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public"
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Public
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes
+/I C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Public
 /I Runtime\Media\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
@@ -280,17 +280,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
-/Yu"F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
-/Fp"F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.pch"
-"F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODAudioComponentDetails.cpp"
-/Fo"F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentDetails.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
+/Yu"C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
+/Fp"C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.pch"
+"C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODAudioComponentDetails.cpp"
+/Fo"C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentDetails.cpp.obj"
 /TP
 /GR-
 /W4

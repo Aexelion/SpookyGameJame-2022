@@ -1,20 +1,20 @@
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODPort.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetLookup.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBankLookup.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
-F:\Unreal Projects\SpookyGameJam\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODPort.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetLookup.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBankLookup.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
