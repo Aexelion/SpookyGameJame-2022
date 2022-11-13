@@ -369,3 +369,5 @@ SpookyGameJam_2022_FModSession/.cache/*
 SpookyGameJam_2022_FModSession/.user/
 SpookyGameJam_2022_FModSession/.user/*
 >>>>>>> 8086cde6ae5073e2fb4f78cf98de2d02184495ac
+
+*.pdb 
