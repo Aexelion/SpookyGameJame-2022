@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{e9ddefba-ad21-4bd2-a649-4882b48e3ac7}">
 		<property name="builtBanksOutputDirectory">
-			<value>C:/Users/rozik/Desktop/GAMEJAM/SpookyGameJam_2022/Content/FMOD</value>
+			<value>C:/Users/rozik/Desktop/GAMEJAM_2022/SpookyGameJam_2022/Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{c81f680a-4c13-469e-b2cc-2be5085d22f4}</destination>
