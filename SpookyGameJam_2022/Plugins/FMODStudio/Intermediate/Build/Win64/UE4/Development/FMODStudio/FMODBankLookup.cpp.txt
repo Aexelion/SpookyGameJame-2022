@@ -1,0 +1,5 @@
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBankLookup.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTable.generated.h
+C:\Users\rozik\Desktop\GAMEJAM_2022\SpookyGameJam_2022\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODBankLookup.generated.h
